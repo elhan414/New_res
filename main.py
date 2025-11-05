@@ -1,2 +1,1 @@
-
-klklklkl
+print("Hello World")
